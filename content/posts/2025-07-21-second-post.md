@@ -1,6 +1,6 @@
 ---
-title: 'Second post'
+title: Second post
 date: 2025-07-20T23:41:00
 draft: false
 ---
-aoeu
+trololol
