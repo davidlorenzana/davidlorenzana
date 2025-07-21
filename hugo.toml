@@ -3,6 +3,7 @@ languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'ananke'
 publishDir = "docs"
+baseURL = "https://davidlorenzana.github.io/flo/"
 
 [module]
   [module.hugoVersion]
