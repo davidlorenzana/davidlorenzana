@@ -1,0 +1,32 @@
+name: Deploy Hugo to GitHub Pages
+
+on:
+  push:
+    branches:
+      - master # O la rama donde Sveltia CMS hace los commits (ej. master)
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          submodules: true # Si usas temas de Hugo como submódulos Git
+          fetch-depth: 0   # Necesario si tu tema es un submódulo o necesitas el historial completo
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: 'latest' # O una versión específica, ej: '0.127.0'
+
+      - name: Build Hugo site
+        run: hugo --minify
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        if: github.ref == 'refs/heads/master' # Solo despliega si el push es a la rama principal
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public # La carpeta donde Hugo genera el sitio
+          publish_branch: gh-pages # La rama donde GitHub Pages sirve el sitio
