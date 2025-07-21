@@ -1,9 +1,8 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
+baseURL = "https://davidlorenzana.github.io/flo/"
+languageCode = 'en-gb'
 title = 'My New Hugo Site'
 theme = 'ananke'
 publishDir = "docs"
-baseURL = "https://davidlorenzana.github.io/flo/"
 
 [module]
   [module.hugoVersion]
