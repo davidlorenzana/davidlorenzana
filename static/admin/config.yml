@@ -1,3 +1,5 @@
+site_url: https://davidlorenzana.github.io/flo/
+
 # Backend para autenticación y almacenamiento de archivos
 backend:
   name: github
