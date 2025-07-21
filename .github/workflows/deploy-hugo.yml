@@ -3,7 +3,7 @@ name: Deploy Hugo to GitHub Pages
 on:
   push:
     branches:
-      - master # O la rama donde Sveltia CMS hace los commits (ej. master)
+      - master # ¡CAMBIO IMPORTANTE AQUÍ! La rama donde Sveltia CMS hace los commits.
 
 jobs:
   build-and-deploy:
@@ -21,12 +21,15 @@ jobs:
           hugo-version: 'latest' # O una versión específica, ej: '0.127.0'
 
       - name: Build Hugo site
-        run: hugo --minify
+        run: hugo --minify --destination docs # ¡CAMBIO IMPORTANTE AQUÍ! La salida va a la carpeta 'docs'
 
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
-        if: github.ref == 'refs/heads/master' # Solo despliega si el push es a la rama principal
+      - name: Add .nojekyll file to docs folder
+        run: touch docs/.nojekyll # Asegura que GitHub Pages no use Jekyll
+
+      - name: Commit and Push to Master (docs folder)
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public # La carpeta donde Hugo genera el sitio
-          publish_branch: gh-pages # La rama donde GitHub Pages sirve el sitio
+          commit_message: "Build and deploy Hugo site to docs folder"
+          file_pattern: "docs/" # Solo commitea los cambios dentro de la carpeta 'docs'
+          branch: master # ¡IMPORTANTE! El push se hace a la misma rama 'master'
+          # token: ${{ secrets.GITHUB_TOKEN }} # No es necesario definirlo aquí, git-auto-commit-action lo usa por defecto
