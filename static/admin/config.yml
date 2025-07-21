@@ -3,6 +3,7 @@ backend:
   name: github
   branch: master # O master, dependiendo de tu rama principal
   repo: davidlorenzana/flo
+  base_url: https://sveltia-cms-auth.davlorenzana.workers.dev/
 
 # Opcional: Para probar en local con `npx netlify-cms-proxy-server`
 # local_backend: true
