@@ -1,6 +1,6 @@
 backend:
   name: github
-  branch: main # o 'master' si es la rama principal de tu repositorio
+  branch: master # o 'master' si es la rama principal de tu repositorio
   repo: davidlorenzana/flo # Reemplaza con tu usuario y nombre de repositorio
 
 media_folder: "static/images" # Carpeta para subir imágenes
