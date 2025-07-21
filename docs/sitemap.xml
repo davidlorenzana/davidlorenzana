@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/flo/posts/mi-primer-post/</loc>
+    <loc>https://davidlorenzana.github.io/flo/posts/mi-primer-post/</loc>
     <lastmod>2025-07-21T15:32:57+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/flo/</loc>
+    <loc>https://davidlorenzana.github.io/flo/</loc>
     <lastmod>2025-07-21T15:32:57+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/flo/posts/</loc>
+    <loc>https://davidlorenzana.github.io/flo/posts/</loc>
     <lastmod>2025-07-21T15:32:57+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/flo/categories/</loc>
+    <loc>https://davidlorenzana.github.io/flo/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/flo/tags/</loc>
+    <loc>https://davidlorenzana.github.io/flo/tags/</loc>
   </url>
 </urlset>
