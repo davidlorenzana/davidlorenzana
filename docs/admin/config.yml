@@ -1,18 +1,20 @@
 # Backend para autenticación y almacenamiento de archivos
 backend:
   name: git-gateway
-  branch: master # Asegúrate de que esta sea la rama correcta (main o master)
+  branch: main # O master, dependiendo de tu rama principal
 
-# Configuración del flujo de trabajo (opcional, pero recomendable)
+# Opcional: Para probar en local con `npx netlify-cms-proxy-server`
+# local_backend: true
+
+# Habilita el control de autenticación de Netlify Identity y flujo editorial
+auth_probe_url: https://api.netlify.com/auth # Asegúrate que esta URL esté presente
 publish_mode: editorial_workflow
 
 # Configuración para el manejo de archivos multimedia
-# media_folder es la ruta donde se guardarán las imágenes
-media_folder: 'static/uploads' # La ruta es relativa a la raíz del repositorio de Git
-# public_folder es la URL desde donde se sirven las imágenes
-public_folder: '/uploads' # La ruta es relativa a la raíz de tu sitio web publicado
+media_folder: 'static/uploads' # Ruta relativa a la raíz del repositorio
+public_folder: '/uploads'      # URL relativa a la raíz de tu sitio web publicado
 
-# Colecciones de contenido
+# Define las colecciones de contenido
 collections:
   - name: 'blog'
     label: 'Blog'
