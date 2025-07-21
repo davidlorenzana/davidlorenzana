@@ -1,0 +1,9 @@
+baseURL: https://davidlorenzana.github.io/flo/
+languageCode: en-gb
+title: My New Hugo Site
+theme: ananke
+publishDir: docs
+module:
+  hugoVersion:
+    extended: true
+    min: 0.111.0

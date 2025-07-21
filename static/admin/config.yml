@@ -1,7 +1,8 @@
 # Backend para autenticación y almacenamiento de archivos
 backend:
-  name: git-gateway
-  branch: main # O master, dependiendo de tu rama principal
+  name: github
+  branch: master # O master, dependiendo de tu rama principal
+  repo: davidlorenzana/flo
 
 # Opcional: Para probar en local con `npx netlify-cms-proxy-server`
 # local_backend: true
