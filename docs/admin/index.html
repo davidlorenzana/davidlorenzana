@@ -4,6 +4,31 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Content Manager</title>
+  <script>
+    window.CMS_CONFIGURATION = {
+      backend: {
+        name: 'github',
+        repo: 'davidlorenzana/flo',
+        branch: 'main',
+      },
+      media_folder: "static/images",
+      public_folder: "/images",
+      collections: [
+        {
+          name: "posts",
+          label: "Posts",
+          folder: "content/posts",
+          create: true,
+          slug: "{{year}}-{{month}}-{{day}}-{{slug}}",
+          fields: [
+            {label: "Título", name: "title", widget: "string"},
+            {label: "Fecha", name: "date", widget: "datetime"},
+            {label: "Cuerpo", name: "body", widget: "markdown"}
+          ]
+        }
+      ]
+    };
+  </script>
 </head>
 <body>
   <div id="cms-root"></div>
