@@ -8,3 +8,4 @@ theme = 'ananke'
     extended = true
     min = "0.111.0"
 
+publishDir = "docs"
