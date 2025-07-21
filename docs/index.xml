@@ -15,5 +15,12 @@
       <guid>http://localhost:1313/flo/posts/mi-primer-post/</guid>
       <description>Test</description>
     </item>
+    <item>
+      <title>Second post</title>
+      <link>http://localhost:1313/flo/posts/2025-07-21-second-post/</link>
+      <pubDate>Sun, 20 Jul 2025 23:41:00 +0000</pubDate>
+      <guid>http://localhost:1313/flo/posts/2025-07-21-second-post/</guid>
+      <description>aoeu</description>
+    </item>
   </channel>
 </rss>

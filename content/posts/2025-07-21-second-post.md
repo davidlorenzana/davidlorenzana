@@ -1,7 +1,6 @@
 ---
-title: Second post
-date: 2025-07-21T23:41:00
-image: ''
-tags: []
+title: 'Second post'
+date: 2025-07-20T23:41:00
+draft: false
 ---
 aoeu
