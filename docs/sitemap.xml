@@ -1,1 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://davidlorenzana.github.io/posts/2025-07-21-second-post/</loc><lastmod>2025-07-20T23:41:00+00:00</lastmod></url><url><loc>https://davidlorenzana.github.io/</loc><lastmod>2025-07-20T23:41:00+00:00</lastmod></url><url><loc>https://davidlorenzana.github.io/posts/</loc><lastmod>2025-07-20T23:41:00+00:00</lastmod></url><url><loc>https://davidlorenzana.github.io/posts/unmissable/</loc><lastmod>2025-07-20T01:00:00+00:00</lastmod></url><url><loc>https://davidlorenzana.github.io/categories/</loc></url><url><loc>https://davidlorenzana.github.io/tags/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/flo/posts/2025-07-21-second-post/</loc>
+    <lastmod>2025-07-20T23:41:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/flo/</loc>
+    <lastmod>2025-07-20T23:41:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/flo/posts/</loc>
+    <lastmod>2025-07-20T23:41:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/flo/posts/unmissable/</loc>
+    <lastmod>2025-07-20T01:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/flo/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/flo/tags/</loc>
+  </url>
+</urlset>
