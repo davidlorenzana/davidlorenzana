@@ -14,7 +14,7 @@ publish_mode: editorial_workflow
 
 # Configuración para el manejo de archivos multimedia
 media_folder: 'static/uploads' # Ruta relativa a la raíz del repositorio
-public_folder: 'docs/uploads'      # URL relativa a la raíz de tu sitio web publicado
+public_folder: '/uploads'      # URL relativa a la raíz de tu sitio web publicado
 
 # Define las colecciones de contenido
 collections:
