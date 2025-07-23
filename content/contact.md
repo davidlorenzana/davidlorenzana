@@ -6,4 +6,4 @@ draft: false
 
 ¡Contáctanos usando el siguiente formulario!
 
-{{< contact_form >}}
+{{< mailchimp_form >}}
