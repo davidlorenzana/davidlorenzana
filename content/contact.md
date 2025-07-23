@@ -6,4 +6,4 @@ draft: false
 
 ¡Contáctanos usando el siguiente formulario!
 
-{{< netlify_form >}}
+{{< contact_form >}}
