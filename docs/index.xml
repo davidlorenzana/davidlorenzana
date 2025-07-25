@@ -1,33 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>My New Hugo Site</title>
-    <link>https://davidlorenzana.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
-    <generator>Hugo</generator>
-    <language>en-gb</language>
-    <lastBuildDate>Sun, 20 Jul 2025 23:41:00 +0000</lastBuildDate>
-    <atom:link href="https://davidlorenzana.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Art Basel Qatar launches new fair format and appoints Wael Shawky as artistic director</title>
-      <link>https://davidlorenzana.github.io/posts/2025-07-21-second-post/</link>
-      <pubDate>Sun, 20 Jul 2025 23:41:00 +0000</pubDate>
-      <guid>https://davidlorenzana.github.io/posts/2025-07-21-second-post/</guid>
-      <description>Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.&#xA;Lorem ipsum dolor sit amet consectetur adipiscing elit.</description>
-    </item>
-    <item>
-      <title>7 unmissable activities for children in London this summer</title>
-      <link>https://davidlorenzana.github.io/posts/unmissable/</link>
-      <pubDate>Sun, 20 Jul 2025 01:00:00 +0000</pubDate>
-      <guid>https://davidlorenzana.github.io/posts/unmissable/</guid>
-      <description>Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.&#xA;Lorem ipsum dolor sit amet consectetur adipiscing elit.</description>
-    </item>
-    <item>
-      <title>Contacto</title>
-      <link>https://davidlorenzana.github.io/contact/</link>
-      <pubDate>Fri, 27 Oct 2023 10:00:00 +0200</pubDate>
-      <guid>https://davidlorenzana.github.io/contact/</guid>
-      <description>¡Contáctanos usando el siguiente formulario!&#xA;Suscribir * indica que es obligatorio Dirección de correo electrónico * /* real people should not fill this in and expect good things - do not remove this or risk form bot signups */ </description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>My New Hugo Site</title><link>https://davidlorenzana.github.io/</link><description>Recent content on My New Hugo Site</description><generator>Hugo</generator><language>en-gb</language><lastBuildDate>Sun, 20 Jul 2025 23:41:00 +0000</lastBuildDate><atom:link href="https://davidlorenzana.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Art Basel Qatar launches new fair format and appoints Wael Shawky as artistic director</title><link>https://davidlorenzana.github.io/posts/2025-07-21-second-post/</link><pubDate>Sun, 20 Jul 2025 23:41:00 +0000</pubDate><guid>https://davidlorenzana.github.io/posts/2025-07-21-second-post/</guid><description>&lt;p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.&lt;/p>
+&lt;p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.&lt;/p></description></item><item><title>7 unmissable activities for children in London this summer</title><link>https://davidlorenzana.github.io/posts/unmissable/</link><pubDate>Sun, 20 Jul 2025 01:00:00 +0000</pubDate><guid>https://davidlorenzana.github.io/posts/unmissable/</guid><description>&lt;p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.&lt;/p>
+&lt;p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.&lt;/p></description></item><item><title>Contacto</title><link>https://davidlorenzana.github.io/contact/</link><pubDate>Fri, 27 Oct 2023 10:00:00 +0200</pubDate><guid>https://davidlorenzana.github.io/contact/</guid><description>&lt;p>¡Contáctanos usando el siguiente formulario!&lt;/p>
+&lt;div id="mc_embed_shell">
+ &lt;link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
+ &lt;style type="text/css">
+ #mc_embed_signup{background:#fff; false;clear:left; font:14px Helvetica,Arial,sans-serif; width: 600px;}
+ 
+&lt;/style>
+&lt;div id="mc_embed_signup">
+ &lt;form action="https://gmail.us4.list-manage.com/subscribe/post?u=b99496d8adbaf04b60195c3bf&amp;amp;id=53b44ddb5f&amp;amp;f_id=003854e2f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
+ &lt;div id="mc_embed_signup_scroll">&lt;h2>Suscribir&lt;/h2>
+ &lt;div class="indicates-required">&lt;span class="asterisk">*&lt;/span> indica que es obligatorio&lt;/div>
+ &lt;div class="mc-field-group">&lt;label for="mce-EMAIL">Dirección de correo electrónico &lt;span class="asterisk">*&lt;/span>&lt;/label>&lt;input type="email" name="EMAIL" class="required email" id="mce-EMAIL" required="" value="">&lt;/div>
+ &lt;div id="mce-responses" class="clear foot">
+ &lt;div class="response" id="mce-error-response" style="display: none;">&lt;/div>
+ &lt;div class="response" id="mce-success-response" style="display: none;">&lt;/div>
+ &lt;/div>
+ &lt;div aria-hidden="true" style="position: absolute; left: -5000px;">
+ /* real people should not fill this in and expect good things - do not remove this or risk form bot signups */
+ &lt;input type="text" name="b_b99496d8adbaf04b60195c3bf_53b44ddb5f" tabindex="-1" value="">
+ &lt;/div>
+ &lt;div class="optionalParent">
+ &lt;div class="clear foot">
+ &lt;input type="submit" name="subscribe" id="mc-embedded-subscribe" class="button" value="Subscribe">
+ &lt;p style="margin: 0px auto;">&lt;a href="http://eepurl.com/jjPwXk" title="Mailchimp: marketing por correo electrónico fácil y divertido">&lt;span style="display: inline-block; background-color: transparent; border-radius: 4px;">&lt;img class="refferal_badge" src="https://digitalasset.intuit.com/render/content/dam/intuit/mc-fe/en_us/images/intuit-mc-rewards-text-dark.svg" alt="Intuit Mailchimp" style="width: 220px; height: 40px; display: flex; padding: 2px 0px; justify-content: center; align-items: center;">&lt;/span>&lt;/a>&lt;/p></description></item></channel></rss>
