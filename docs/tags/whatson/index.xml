@@ -2,32 +2,88 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Whatson on FLO London</title>
-    <link>http://localhost:1313/tags/whatson/</link>
+    <link>https://davidlorenzana.github.io/tags/whatson/</link>
     <description>Recent content in Whatson on FLO London</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 26 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/whatson/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://davidlorenzana.github.io/tags/whatson/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Things to do in London in June in 2024</title>
-      <link>http://localhost:1313/posts/things-to-do-in-london-in-june-in-2024/</link>
+      <link>https://davidlorenzana.github.io/posts/things-to-do-in-london-in-june-in-2024/</link>
       <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/things-to-do-in-london-in-june-in-2024/</guid>
+      <guid>https://davidlorenzana.github.io/posts/things-to-do-in-london-in-june-in-2024/</guid>
       <description>June in London is buzzing with excitement as festival season kicks off and some much-loved events return. From Southbank Centre&amp;rsquo;s Meltdown festival, curated by the legendary Chaka Khan, to the delightful lunchtime Jazz Series at Cadogan Hall. Add in the Sundance Film Festival and the revival of Open Water Swimming, and you&amp;rsquo;ve got a month packed with fantastic activities. Here&amp;rsquo;s our selection of things to do in London this June.</description>
     </item>
     <item>
-      <title>Things to do in London in November 2024</title>
-      <link>http://localhost:1313/posts/things-to-do-in-london-in-november-2024/</link>
+      <title>50 art exhibitions to see in London during Frieze Week 2024</title>
+      <link>https://davidlorenzana.github.io/posts/50-art-exhibitions-to-see-in-london-during-frieze-week-2024/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/things-to-do-in-london-in-november-2024/</guid>
+      <guid>https://davidlorenzana.github.io/posts/50-art-exhibitions-to-see-in-london-during-frieze-week-2024/</guid>
+      <description>London’s most anticipated art month is on the horizon, with Frieze London and Masters returning to The Regent’s Park from 9 - 13 October 2024. This renowned week typically sees a flurry of activity across the city, with numerous art fairs, events, and exhibitions showcasing the best in contemporary and historical art. To help you navigate the excitement, here is your guide to 50 art exhibitions not to be missed during Frieze Week.</description>
+    </item>
+    <item>
+      <title>Things to do in London in November 2024</title>
+      <link>https://davidlorenzana.github.io/posts/things-to-do-in-london-in-november-2024/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://davidlorenzana.github.io/posts/things-to-do-in-london-in-november-2024/</guid>
       <description>November in London marks the return of many beloved Christmas traditions across the city. Highlights include the switching on of Christmas lights and the return of festive ice skating at Somerset House. Music enthusiasts can enjoy celebrations for 30 years of Bugged Out! at Drumsheds, along with performances of Hansel and Gretel at the Royal Opera House. The art scene will be vibrant with the opening of several new exhibitions, including an exploration of photography in Britain during the 80s at Tate Britain, as well as the return of the Woolwich Contemporary Print Fair.</description>
     </item>
     <item>
       <title>Things to do in London this weekend: 8-10 March 2024</title>
-      <link>http://localhost:1313/posts/things-to-do-in-london-this-weekend-8-10-march-2024/</link>
+      <link>https://davidlorenzana.github.io/posts/things-to-do-in-london-this-weekend-8-10-march-2024/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/things-to-do-in-london-this-weekend-8-10-march-2024/</guid>
+      <guid>https://davidlorenzana.github.io/posts/things-to-do-in-london-this-weekend-8-10-march-2024/</guid>
       <description>Discover our pick of events in London this weekend: 8 –10 March 2024.&#xA;New York City Ballet (NYCB)&#xA;New York City Ballet, founded in 1948 by George Balanchine and Lincoln Kirstein, is renowned for its blend of contemporary creations and classic choreographies. Their upcoming performance in the UK presents a rare opportunity to witness the company&amp;rsquo;s world-class talent. The repertoire includes Justin Peck&amp;rsquo;s Rotunda, featuring a commissioned score by Nico Muhly, Duo Concertant by Balanchine, Pam Tanowitz&amp;rsquo;s Gustave le Gray No.</description>
+    </item>
+    <item>
+      <title>What&#39;s on in London this week: 1 – 7 May 2023</title>
+      <link>https://davidlorenzana.github.io/posts/whats-on-in-london-this-week-1-7-may-2023/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://davidlorenzana.github.io/posts/whats-on-in-london-this-week-1-7-may-2023/</guid>
+      <description>Discover our pick of things to do in London this week: 1 - 7 May 2023.&#xA;Explore London Unsound London&#xA;London&amp;rsquo;s groundbreaking Unsound event is returning after five years with three new works featuring innovative minds in electronic and experimental music. The boundary-pushing showcase includes performances by Osmium, a supergroup featuring Hildur Guðnadóttir, Sam Slater, James Ginzburg, and Rully Shabara of Senyawa. Custom-built instruments blend mechanical and organic sounds to create hypnotic music.</description>
+    </item>
+    <item>
+      <title>What&#39;s on in London this week: 11 - 17 March 2024</title>
+      <link>https://davidlorenzana.github.io/posts/whats-on-in-london-this-week-11-17-march-2024/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://davidlorenzana.github.io/posts/whats-on-in-london-this-week-11-17-march-2024/</guid>
+      <description>Discover our pick of events in London this week: 11 – 17 March 2024.&#xA;Daunt Books Festival 2024&#xA;The Daunt Books two-day festival returns this week, featuring a series of talks at their quaint Marylebone store. It&amp;rsquo;s the perfect opportunity to gain insight into excellent reads. This year&amp;rsquo;s programme includes authors like Paul Lynch, Carys Davis, children&amp;rsquo;s book writer Lauren Child, and journalist Sathnam Sanghera. Events are individually ticketed. Click here for the line-up of events.</description>
+    </item>
+    <item>
+      <title>What&#39;s on in London this week: 12 – 18 February 2024</title>
+      <link>https://davidlorenzana.github.io/posts/whats-on-in-london-this-week-12-18-february-2024/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://davidlorenzana.github.io/posts/whats-on-in-london-this-week-12-18-february-2024/</guid>
+      <description>Discover our pick of events in London this week: 12 – 18 February 2024.&#xA;Guy Johnston and Britten Sinfonia: The Protecting Veil&#xA;Cellist Guy Johnston collaborates with Britten Sinfonia in a compelling concert featuring works by Tavener, Beethoven, and Bartók. Tavener&amp;rsquo;s The Protecting Veil showcases the cello&amp;rsquo;s emotive qualities, with Johnston&amp;rsquo;s performance reflecting his personal connection with the composer.&#xA;Date: 15 February 2024. Time: 7.30pm. Location: Barbican Centre, Silk Street, London</description>
+    </item>
+    <item>
+      <title>What&#39;s on in London this week: 16  - 22 October 2023</title>
+      <link>https://davidlorenzana.github.io/posts/whats-on-in-london-this-week-16-22-october-2023/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://davidlorenzana.github.io/posts/whats-on-in-london-this-week-16-22-october-2023/</guid>
+      <description>Discover our pick of things to do in London this week: 16 - 22 October 2023.&#xA;Bar takeovers for London Cocktail Week&#xA;London Cocktail Week is kicking off with some really exciting bar takeovers; bars from cities all of the world including Chicago, Barcelona, Toronto, India, and Copenhagen are taking over some of our favourite bars in the London. Launched in 2010, the 11-day festival celebrates London&amp;rsquo;s vibrant cocktail culture, and gives you the chance to try signature cocktails at numerous top bars across the city for just £8 - a steal in the current climate.</description>
+    </item>
+    <item>
+      <title>What&#39;s on in London this week: 26 June – 2 July 2023</title>
+      <link>https://davidlorenzana.github.io/posts/whats-on-in-london-this-week-26-june-2-july-2023/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://davidlorenzana.github.io/posts/whats-on-in-london-this-week-26-june-2-july-2023/</guid>
+      <description>Discover our pick of things to do in London this week: 26 June – 2 July 2023.&#xA;Explore London Chelsea &amp;amp; Kensington Festival 2023&#xA;Kensington and Chelsea Festival is returning for its third year this week. Taking place from 1 July - 31 August 2023. The festival will showcase a wide range of live art performances in various venues and outdoor spaces, featuring established artists and emerging talent. It offers a diverse cultural program including theatre, circus, opera, dance, music, outdoor arts, family shows, talks, and more.</description>
+    </item>
+    <item>
+      <title>What’s on in London this week: 23 – 29 September 2024</title>
+      <link>https://davidlorenzana.github.io/posts/whats-on-in-london-this-week-23-29-september-2024/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://davidlorenzana.github.io/posts/whats-on-in-london-this-week-23-29-september-2024/</guid>
+      <description>Discover our pick of events in London this week: 23 – 29 September 2024.&#xA;Eugene Onegin&#xA;Experience the romantic drama of Tchaikovsky’s Eugene Onegin in a brand-new production by Ted Huffman. Making his Main Stage debut, Huffman explores themes of memory and desire through this classic tale. Featuring Gordon Bintner as Onegin and Kristina Mkhitaryan as Tatyana, with Henrik Nánási conducting, this production offers a fresh perspective on a timeless story.</description>
+    </item>
+    <item>
+      <title>What’s on in London this week: 3 - 9 February 2025</title>
+      <link>https://davidlorenzana.github.io/posts/whats-on-in-london-this-week-3-9-february-2025/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://davidlorenzana.github.io/posts/whats-on-in-london-this-week-3-9-february-2025/</guid>
+      <description>Discover our pick of events in London this week: 3 - 9 February 2025.&#xA;Orchid Festival&#xA;Kew Gardens’ annual Orchid Festival has returned, celebrating Peru’s vibrant flora and fauna. The Princess of Wales Conservatory features orchids, alpacas, flamingos, and large-scale photography by Peruvian artist Mariano Vivanco, as well as murals by Lima-born Gisella Stapleton.&#xA;Date: 1 February - 2 March 2025. Location: Princess of Wales Conservatory Kew, Richmond, London, TW9 3AE.</description>
     </item>
   </channel>
 </rss>

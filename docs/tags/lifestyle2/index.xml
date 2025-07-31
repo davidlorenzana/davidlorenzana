@@ -2,16 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lifestyle2 on FLO London</title>
-    <link>http://localhost:1313/tags/lifestyle2/</link>
+    <link>https://davidlorenzana.github.io/tags/lifestyle2/</link>
     <description>Recent content in Lifestyle2 on FLO London</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <atom:link href="http://localhost:1313/tags/lifestyle2/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://davidlorenzana.github.io/tags/lifestyle2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FLO London x British Vogue 2022</title>
+      <link>https://davidlorenzana.github.io/posts/flo-london-x-british-vogue-2022/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://davidlorenzana.github.io/posts/flo-london-x-british-vogue-2022/</guid>
+      <description>FLO London features in the June, July and August 2022 issues of British Vogue. As a female-owned business this has been a wonderful opportunity and a chance to showcase our newest collection of Ghanaian wax print products made from Nsubra fabrics.&#xA;“I created FLO London The Shop with the intent of relaying the meanings and beauty of some of the wonderful Ghanaian wax print fabrics I have been in awe of my whole life.</description>
+    </item>
     <item>
       <title>The London Diaries: the copywriter living at home</title>
-      <link>http://localhost:1313/posts/london-diaries-25-30k-in-the-city/</link>
+      <link>https://davidlorenzana.github.io/posts/london-diaries-25-30k-in-the-city/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/london-diaries-25-30k-in-the-city/</guid>
+      <guid>https://davidlorenzana.github.io/posts/london-diaries-25-30k-in-the-city/</guid>
       <description>Job: Copywriter&#xA;Time living in London: Prior to the COVID-19 pandemic, I lived in London Bridge and then Waterloo for a year. Now I live at home with my mum.&#xA;Area: Sutton&#xA;Pay range: £25,000 - £30,000&#xA;Relationship status: Single&#xA;Rent: £100 – a token gesture.&#xA;Monday Due to the pandemic, I’ve been working from home since March which has been a great opportunity to get extensive wear out of my pyjamas and gym gear.</description>
     </item>
   </channel>
