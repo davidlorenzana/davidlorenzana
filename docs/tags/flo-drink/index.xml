@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flo Drink on FLO London</title>
+    <link>http://localhost:1313/tags/flo-drink/</link>
+    <description>Recent content in Flo Drink on FLO London</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <atom:link href="http://localhost:1313/tags/flo-drink/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tanqueray No. TEN launches ‘Make It a TEN’ Residency at Artesian</title>
+      <link>http://localhost:1313/posts/tanqueray-no-ten-launches-make-it-a-ten-residency-at-artesian/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/tanqueray-no-ten-launches-make-it-a-ten-residency-at-artesian/</guid>
+      <description>Stanley Tucci and head bartender Giulia Cuccurullo present a curated cocktail experience at Artesian, located in The Langham Hotel, in celebration of London Cocktail Week.&#xA;Stanley Tucci and head bartender Giulia Cuccurullo present a curated cocktail experience at Artesian, in celebration of London Cocktail Week from 3 - 31 October 2024.&#xA;In celebration of London Cocktail Week, Tanqueray No. TEN has launched its ‘Make It a TEN’ residency at the renowned Artesian bar in The Langham Hotel.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,7 +1,7 @@
 baseURL: https://davidlorenzana.github.io/
 # baseURL: '/'
 languageCode: en-gb
-title: My New Hugo Site
+title: FLO London
 theme: ananke
 publishDir: docs
 module:

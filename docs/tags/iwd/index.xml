@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IWD on FLO London</title>
+    <link>http://localhost:1313/tags/iwd/</link>
+    <description>Recent content in IWD on FLO London</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <atom:link href="http://localhost:1313/tags/iwd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>International Women&#39;s Day 2020: the art edition</title>
+      <link>http://localhost:1313/posts/international-womens-day-the-art-edition/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/international-womens-day-the-art-edition/</guid>
+      <description>Women have long been under-represented in the art world. In 2020 with what appears to be the glass ceiling breaking, we are seeing more exhibitions by women. To mark international women’s day and to commemorate the #5WomenArtists campaign we are sharing some of the exhibitions by female artists you can see in London right now and a couple upcoming exhibitions.&#xA;Dora Maar Exhibition Image: Tate&#xA;When?&#xA;20th November 2019 - 15th March 2020</description>
+    </item>
+    <item>
+      <title>International Women’s Day 2020: The film edition</title>
+      <link>http://localhost:1313/posts/international-womens-day-2020-the-film-edition-klqe5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/international-womens-day-2020-the-film-edition-klqe5/</guid>
+      <description>In recent years there has been a lot of controversy emanating from Hollywood and the film industry wirh regards to their treatment of women. This year in particular, the Academy (need full name) has being heavily criticised for the lack of female nominees in the Best Director category for an Oscar. Now this is not for a lack of female directors out there, nor for a lack of female directors that have directed incredible films in the past 12 months - namely, Greta Gerwig&amp;rsquo;s adapted screenplay of Little Women.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Art2 on FLO London</title>
+    <link>http://localhost:1313/tags/art2/</link>
+    <description>Recent content in Art2 on FLO London</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <atom:link href="http://localhost:1313/tags/art2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Margaret Ngigi Exhibition at Doyle Wham</title>
+      <link>http://localhost:1313/posts/margaret-ngigi-exhibition-at-doyle-wham/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/margaret-ngigi-exhibition-at-doyle-wham/</guid>
+      <description>Location: Doyle Wham, 43 Ebury Bridge Road, SW1W 8PX&#xA;Date: Until 31st January 2020&#xA;Price: Free&#xA;Image: Murky Waters I, Margaret Ngigi via Doyle Wham&#xA;Doyle Wham presents the first solo exhibition of Kenyan based photographer and filmmaker, Margaret Ngigi, in the UK. The exhibition explores the complex pressures facing young women in contemporary Kenyan society. Ngigi states that “Murky Waters is my way of examining the challenges that women still face in society, by illustrating the positions we are forced into, and the situations that different groups of women find themselves in.</description>
+    </item>
+  </channel>
+</rss>

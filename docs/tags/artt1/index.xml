@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Artt1 on FLO London</title>
+    <link>http://localhost:1313/tags/artt1/</link>
+    <description>Recent content in Artt1 on FLO London</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 14 May 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/artt1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>In conversation with Soojin Kang</title>
+      <link>http://localhost:1313/interviews/in-conversation-with-soojin-kang/</link>
+      <pubDate>Sun, 14 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/interviews/in-conversation-with-soojin-kang/</guid>
+      <description>“My work speaks with emotion. The surfaces I weave, the positive and negative space that becomes the forms that I create…”&#xA;- Soojin Kang&#xA;Image: Soojin Kang. © Markus Schroder&#xA;Soojin Kang is a Korean artist now based in Germany, whose practice is based on the exploration of textiles as a sculptural medium. Using the ritualistic actions of weaving, knotting, winding and unwinding, she transubstantiates raw materials into structures that retain unmistakeable traces of their biotic origins through rough surfaces and natural dyes.</description>
+    </item>
+  </channel>
+</rss>

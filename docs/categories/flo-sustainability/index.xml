@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FLO Sustainability on FLO London</title>
+    <link>http://localhost:1313/categories/flo-sustainability/</link>
+    <description>Recent content in FLO Sustainability on FLO London</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <atom:link href="http://localhost:1313/categories/flo-sustainability/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Be in the Know: Crossrail</title>
+      <link>http://localhost:1313/posts/be-in-the-know-crossrail/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/be-in-the-know-crossrail/</guid>
+      <description>Crossrail is an infrastructure project that is under construction to deliver a new railway through Central London. The new railway will be known as the Elizabeth Line and will be run by Transport for London (TfL). The line, once complete, will run from Reading and Heathrow in the west, to Shenfield and Abbey Wood in the east.&#xA;Image: Crossrail route maps&#xA;The route will serve 41 stations, 10 of which are new.</description>
+    </item>
+  </channel>
+</rss>
