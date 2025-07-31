@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>London Living on FLO London</title>
-    <link>http://localhost:1313/categories/london-living/</link>
+    <link>https://davidlorenzana.github.io/categories/london-living/</link>
     <description>Recent content in London Living on FLO London</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <atom:link href="http://localhost:1313/categories/london-living/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://davidlorenzana.github.io/categories/london-living/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A quick guide to London’s Premier League Stadiums</title>
-      <link>http://localhost:1313/posts/a-quick-guide-to-londons-premier-league/</link>
+      <link>https://davidlorenzana.github.io/posts/a-quick-guide-to-londons-premier-league/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/a-quick-guide-to-londons-premier-league/</guid>
+      <guid>https://davidlorenzana.github.io/posts/a-quick-guide-to-londons-premier-league/</guid>
       <description>There’s no place like home… and that’s certainly the case when it comes to Premier League football. The idea of ‘home field advantage’ is commonplace in many different sports, but there’s a clear and obvious advantage to playing on home soil in football, as any home/away split league table will attest.&#xA;London is home to some of the most famous football stadiums in the world, so if you’re looking for something to do in the capital, and want to catch 90 minutes of the beautiful game, here’s your quick guide to the grounds you could visit.</description>
     </item>
     <item>
       <title>The ultimate guide to cab service in the UK: why visitors prefer them</title>
-      <link>http://localhost:1313/posts/the-ultimate-guide-to-cab-service-in-the-uk-why-visitors-prefer-them/</link>
+      <link>https://davidlorenzana.github.io/posts/the-ultimate-guide-to-cab-service-in-the-uk-why-visitors-prefer-them/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/the-ultimate-guide-to-cab-service-in-the-uk-why-visitors-prefer-them/</guid>
+      <guid>https://davidlorenzana.github.io/posts/the-ultimate-guide-to-cab-service-in-the-uk-why-visitors-prefer-them/</guid>
       <description>Travelling to the UK can be a breeze when you choose a UK airport taxi service. Many foreigners find that these services offer a seamless and comfortable journey, making them a top choice over public transport or ride-hailing apps. Forget the multiple transfers and crowded spaces you might encounter on trains and buses; airport taxis provide a direct and stress-free way to reach your destination.&#xA;With professional drivers, fixed pricing, and 24/7 availability, it&amp;rsquo;s no wonder tourists and business travellers alike favour this mode of transportation.</description>
     </item>
   </channel>

@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lucy Adelman on FLO London</title>
-    <link>http://localhost:1313/tags/lucy-adelman/</link>
+    <link>https://davidlorenzana.github.io/tags/lucy-adelman/</link>
     <description>Recent content in Lucy Adelman on FLO London</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <atom:link href="http://localhost:1313/tags/lucy-adelman/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://davidlorenzana.github.io/tags/lucy-adelman/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Antisemitism 101</title>
-      <link>http://localhost:1313/posts/antisemitism-101-rsfue/</link>
+      <link>https://davidlorenzana.github.io/posts/antisemitism-101-rsfue/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/antisemitism-101-rsfue/</guid>
+      <guid>https://davidlorenzana.github.io/posts/antisemitism-101-rsfue/</guid>
       <description>Antisemitism is horrible. As with any discrimination, it taps into the worst corner of the human psyche – the dark feeling of control which flickers within a person when they abuse another simply because they are different or unfamiliar. Whilst Wiley was enjoying such crude empowerment when he spent over 12 hours last week bombarding social media with his antisemitic posts, Jewish people all over the world including myself were left bruised.</description>
     </item>
     <item>
       <title>UK Jewish Film Festival</title>
-      <link>http://localhost:1313/posts/uk-jewish-film-festival/</link>
+      <link>https://davidlorenzana.github.io/posts/uk-jewish-film-festival/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/uk-jewish-film-festival/</guid>
+      <guid>https://davidlorenzana.github.io/posts/uk-jewish-film-festival/</guid>
       <description>Founded in 1997, the UK Jewish Film Festival is an annual event which takes place for two weeks each November. This year, the festival has gone online, meaning that it provides an ideal opportunity to immerse yourself in Jewish film from the comfort of your own home. The festival began on 5 November and runs until 19 November, with a number of fantastic films and events yet to be broadcast.</description>
     </item>
   </channel>

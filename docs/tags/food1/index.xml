@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Food1 on FLO London</title>
-    <link>http://localhost:1313/tags/food1/</link>
+    <link>https://davidlorenzana.github.io/tags/food1/</link>
     <description>Recent content in Food1 on FLO London</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <atom:link href="http://localhost:1313/tags/food1/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://davidlorenzana.github.io/tags/food1/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>#FLOFavourite: Boca Cha Cha</title>
-      <link>http://localhost:1313/posts/flo-london-favourites-boca-cha-cha/</link>
+      <link>https://davidlorenzana.github.io/posts/flo-london-favourites-boca-cha-cha/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/flo-london-favourites-boca-cha-cha/</guid>
+      <guid>https://davidlorenzana.github.io/posts/flo-london-favourites-boca-cha-cha/</guid>
       <description>What’s the deal ? Boca Cha Cha is an eccentric bohemian café and restaurant tucked away in Little Venice. With an eclectic mash-up of velvet sofas, disco balls, wicker armchairs, neon lights and chandeliers, and contemporary art the décor is as much a draw as the food. Boca Cha Cha brings together a fusion of Mexican, Mediterranean, and Spanish foods, from cheese and truffle croquet with poached egg to French toast with dulce de leche and berries.</description>
     </item>
   </channel>

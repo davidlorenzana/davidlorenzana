@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arts1 on FLO London</title>
-    <link>http://localhost:1313/tags/arts1/</link>
+    <link>https://davidlorenzana.github.io/tags/arts1/</link>
     <description>Recent content in Arts1 on FLO London</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Thu, 14 May 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/arts1/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://davidlorenzana.github.io/tags/arts1/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>London at home: theatre shows available to stream</title>
-      <link>http://localhost:1313/posts/theatre-shows-available-to-stream/</link>
+      <link>https://davidlorenzana.github.io/posts/theatre-shows-available-to-stream/</link>
       <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/theatre-shows-available-to-stream/</guid>
+      <guid>https://davidlorenzana.github.io/posts/theatre-shows-available-to-stream/</guid>
       <description>The entertainment industry might be on hold for the moment, but there’s still ways to bring the theatre to your living room. With our guide, you can still enjoy a range of shows while we’re all still in lockdown.&#xA;Shakespeare’s Globe Image: Shakespeare’s Globe&#xA;Between the years of 1592-93, The Globe was closed due to an outbreak of the plague. Although The Globe is currently closed again, fortunately this time around, you can still watch a selection of Shakespeare’s plays.</description>
     </item>
   </channel>

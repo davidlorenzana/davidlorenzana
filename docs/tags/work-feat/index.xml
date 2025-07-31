@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Work Feat on FLO London</title>
-    <link>http://localhost:1313/tags/work-feat/</link>
+    <link>https://davidlorenzana.github.io/tags/work-feat/</link>
     <description>Recent content in Work Feat on FLO London</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Thu, 28 May 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/work-feat/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://davidlorenzana.github.io/tags/work-feat/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>In conversation with Dr Zara Benjamin-Laing</title>
-      <link>http://localhost:1313/interviews/in-conversation-with-dr-zara-benjamin-laing/</link>
+      <link>https://davidlorenzana.github.io/interviews/in-conversation-with-dr-zara-benjamin-laing/</link>
       <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/interviews/in-conversation-with-dr-zara-benjamin-laing/</guid>
+      <guid>https://davidlorenzana.github.io/interviews/in-conversation-with-dr-zara-benjamin-laing/</guid>
       <description>We had a chat with Dr Zara to discover what a day in the life at Birmingham hospital amid the coronavirus pandemic.&#xA;Key workers have been working tirelessly on the front line throughout our nation’s battle against coronavirus. We caught up with NHS doctor, Zara Benjamin-Laing, to discover how day-to-day life has changed at the hospital she works at amid the current pandemic.&#xA;Image: Zara Benjamin-Laing&#xA;Dr Zara Benjamin-Laing is a Senior House Officer (SHO) currently working in Birmingham.</description>
     </item>
   </channel>

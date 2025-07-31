@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Travel Guides on FLO London</title>
-    <link>http://localhost:1313/categories/travel-guides/</link>
+    <link>https://davidlorenzana.github.io/categories/travel-guides/</link>
     <description>Recent content in Travel Guides on FLO London</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <atom:link href="http://localhost:1313/categories/travel-guides/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://davidlorenzana.github.io/categories/travel-guides/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Best art galleries to visit in Stockholm</title>
-      <link>http://localhost:1313/posts/stockholm-travel-guide-the-best-art-galleries-to-visit-in-stockholm/</link>
+      <link>https://davidlorenzana.github.io/posts/stockholm-travel-guide-the-best-art-galleries-to-visit-in-stockholm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/stockholm-travel-guide-the-best-art-galleries-to-visit-in-stockholm/</guid>
+      <guid>https://davidlorenzana.github.io/posts/stockholm-travel-guide-the-best-art-galleries-to-visit-in-stockholm/</guid>
       <description>A visit to Stockholm is incomplete without exploring its thriving art scene, from galleries showcasing Swedish artists to the unique artwork displayed in the city&amp;rsquo;s underground stations. This guide highlights some of the must-visit galleries in Stockholm.&#xA;Click here to discover our guide to museums and places to eat in Stockholm.&#xA;Artipelag The Solar Egg sculpture by Bigert &amp;amp; Bergström. The Solar Egg is part of Sculpture in Nature, Artipelag’s permanent outdoor exhibition.</description>
     </item>
     <item>
       <title>Things to do in the Seychelles</title>
-      <link>http://localhost:1313/posts/things-to-do-in-the-seychelles/</link>
+      <link>https://davidlorenzana.github.io/posts/things-to-do-in-the-seychelles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/things-to-do-in-the-seychelles/</guid>
+      <guid>https://davidlorenzana.github.io/posts/things-to-do-in-the-seychelles/</guid>
       <description>The Seychelles is an island nation made up of 115 islands (you can hop between islands via boat or plane, bear in mind a number of these islands are privately owned). With two UNESCO world heritage sites, the Seychelles also features the most breath-taking views you could ever imagine and is home to some of the most picturesque white sand beaches, delicious food and equally intriguing wildlife.&#xA;Here is our guide to some of the best things to do whilst on this tropical island…</description>
     </item>
   </channel>

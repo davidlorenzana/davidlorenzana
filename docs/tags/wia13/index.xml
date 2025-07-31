@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wia13 on FLO London</title>
-    <link>http://localhost:1313/tags/wia13/</link>
+    <link>https://davidlorenzana.github.io/tags/wia13/</link>
     <description>Recent content in Wia13 on FLO London</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <atom:link href="http://localhost:1313/tags/wia13/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://davidlorenzana.github.io/tags/wia13/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>In conversation with Nicole Schoeni</title>
-      <link>http://localhost:1313/interviews/in-conversation-with-nicole-schoeni/</link>
+      <link>https://davidlorenzana.github.io/interviews/in-conversation-with-nicole-schoeni/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/interviews/in-conversation-with-nicole-schoeni/</guid>
+      <guid>https://davidlorenzana.github.io/interviews/in-conversation-with-nicole-schoeni/</guid>
       <description>“What I really love to do is to support artists and to be a patron and to share stories.”&#xA;- Nicole Schoeni&#xA;Image: Nicole Schoeni. Schoeni Projects&#xA;Nicole is an experienced gallerist and gallery director, and the founder of Schoeni Projects. She has lived in Hong Kong for most of her life, although attended school and university in the UK. Contemporary and street art are two of her passions, although what she really loves the most about the art world is collaborating with creatives and meeting new people.</description>
     </item>
   </channel>

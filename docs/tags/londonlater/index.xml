@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Londonlater on FLO London</title>
-    <link>http://localhost:1313/tags/londonlater/</link>
+    <link>https://davidlorenzana.github.io/tags/londonlater/</link>
     <description>Recent content in Londonlater on FLO London</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <atom:link href="http://localhost:1313/tags/londonlater/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://davidlorenzana.github.io/tags/londonlater/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>22 unmissable art fairs and events in London for 2025</title>
-      <link>http://localhost:1313/posts/22-unmissable-art-fairs-and-events-in-london-for-2025/</link>
+      <link>https://davidlorenzana.github.io/posts/22-unmissable-art-fairs-and-events-in-london-for-2025/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/22-unmissable-art-fairs-and-events-in-london-for-2025/</guid>
+      <guid>https://davidlorenzana.github.io/posts/22-unmissable-art-fairs-and-events-in-london-for-2025/</guid>
       <description>This year, London will host an array of art fairs, art weeks, and design festivals, showcasing everything from photography and contemporary art to ceramics, antiques, sculpture, and innovative design. The 2025 art scene will be as vibrant as ever, featuring long-established events like Frieze, LAPADA, and the London Design Festival, as well as exciting newcomers such as Fresh: Art Fair and the return of the London Design Biennale. With various art weeks, including Clerkenwell Design Week, also on the calendar, here’s a guide to twenty-two unmissable art fairs, events, and festivals in 2025.</description>
     </item>
   </channel>

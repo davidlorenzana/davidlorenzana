@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Flm on FLO London</title>
-    <link>http://localhost:1313/tags/flm/</link>
+    <link>https://davidlorenzana.github.io/tags/flm/</link>
     <description>Recent content in Flm on FLO London</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <atom:link href="http://localhost:1313/tags/flm/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://davidlorenzana.github.io/tags/flm/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>*PROMO* FLO London Meets... Series 2</title>
-      <link>http://localhost:1313/posts/promo-flo-london-meets-series-2/</link>
+      <link>https://davidlorenzana.github.io/posts/promo-flo-london-meets-series-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/promo-flo-london-meets-series-2/</guid>
+      <guid>https://davidlorenzana.github.io/posts/promo-flo-london-meets-series-2/</guid>
       <description>Meet our interviewees for Series 2 of FLO London Meets&amp;hellip;&#xA;We have some very exciting interviews coming your way. Discover how these remarkable people developed their businesses, came to triumph in their relevant fields, or hear about what they truly love about London&amp;hellip;</description>
     </item>
   </channel>

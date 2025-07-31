@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tani on FLO London</title>
-    <link>http://localhost:1313/tags/tani/</link>
+    <link>https://davidlorenzana.github.io/tags/tani/</link>
     <description>Recent content in Tani on FLO London</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Wed, 31 May 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/tani/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://davidlorenzana.github.io/tags/tani/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hart Shoreditch Review</title>
-      <link>http://localhost:1313/posts/hart-shoreditch-review/</link>
+      <link>https://davidlorenzana.github.io/posts/hart-shoreditch-review/</link>
       <pubDate>Wed, 31 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/hart-shoreditch-review/</guid>
+      <guid>https://davidlorenzana.github.io/posts/hart-shoreditch-review/</guid>
       <description>Hart Shoreditch, situated in the vibrant heart of Shoreditch, provides a charming and sophisticated retreat that captures the essence of the local area.&#xA;Image: Hart Shoreditch&#xA;Located in the beating heart of Shoerditch, Hart Shoreditch offers a cosy, laid back and elegant base in which to explore all the local area has to offer. Inspired by East London’s past, the hotel&amp;rsquo;s unique design is a celebration of Shoreditch and its heritage as a centre for craftspeople and makers.</description>
     </item>
     <item>
       <title>Royal Academy Summer Exhibition 2025 review</title>
-      <link>http://localhost:1313/posts/royal-academy-summer-exhibition-2025-review/</link>
+      <link>https://davidlorenzana.github.io/posts/royal-academy-summer-exhibition-2025-review/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/royal-academy-summer-exhibition-2025-review/</guid>
+      <guid>https://davidlorenzana.github.io/posts/royal-academy-summer-exhibition-2025-review/</guid>
       <description>Arriving right on cue with the first wafts of summer London heat, the Royal Academy Summer Show has returned for its 257th exhibition. Curated under the theme of ‘Dialogues,’ the 2025 edition is coordinated by internationally acclaimed architect and Royal Academician Farshid Moussavi and explores art’s capacity to forge dialogues and build sensitivity towards societal concerns such as ecology, survival and living together. As Moussavi explained: “These dialogues can be between people of different races, genders, or cultures; between humans, all species, and the planet; or across different disciplines - art, science, politics for example.</description>
     </item>
   </channel>
