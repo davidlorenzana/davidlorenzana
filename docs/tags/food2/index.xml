@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Food2 on FLO London</title>
+    <link>https://davidlorenzana.github.io/tags/food2/</link>
+    <description>Recent content in Food2 on FLO London</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <atom:link href="https://davidlorenzana.github.io/tags/food2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#FLOFavourite: top 5 in food this week</title>
+      <link>https://davidlorenzana.github.io/posts/flofavourite-top-5-in-food-this-week/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://davidlorenzana.github.io/posts/flofavourite-top-5-in-food-this-week/</guid>
+      <description>We are into the fourth week of the government’s new ‘Eat Out to Help Out!’ scheme. It came into effect on 3 August and lasts till the end of the month, giving people 50% off their bill at thousands of restaurants across the country on Mondays, Tuesdays and Wednesdays. The scheme is designed to encourage us all to get out there and support the hospitality industry following the nationwide lockdown.</description>
+    </item>
+  </channel>
+</rss>
